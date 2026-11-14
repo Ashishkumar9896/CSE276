@@ -1,0 +1,4 @@
+query_id,collection_date,source_type,anonymized_query,expected_intent,owner_verified_answer,source_or_policy_reference,verified_by,verification_date,notes
+Q001,,,,,,,,,
+Q002,,,,,,,,,
+Q003,,,,,,,,,

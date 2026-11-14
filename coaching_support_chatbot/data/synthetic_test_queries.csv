@@ -1,0 +1,13 @@
+﻿test_id,query,expected_intent,data_label
+SYN001,What courses do you offer for JEE?,courses,Synthetic test question; not a real customer query.
+SYN002,What is the current fee for NEET coaching?,fees,Synthetic test question; fee is not published in the directory.
+SYN003,Are admissions open right now?,admissions,Synthetic test question; current admission status must be verified.
+SYN004,What are the class timings for the evening batch?,timings,Synthetic test question; actual batch timings not verified.
+SYN005,Can I book a demo class this Sunday?,booking,Synthetic test question; no real slot availability integration.
+SYN006,I want to talk to a staff member.,handover,Synthetic test question.
+SYN007,I want to complain about a class issue.,complaint,Synthetic test question.
+SYN008,Is your address in Sector 15 or Sector 16?,location,"Synthetic test question; search found a Sector 16 listing, mismatch needs owner verification."
+SYN009,Do you teach both JEE Main and NEET?,courses,"Synthetic test question; public directory lists both, owner confirmation pending."
+SYN010,Can you guarantee that I will clear NEET?,unknown,Synthetic test question; never guarantee exam outcomes.
+SYN011,Please call me about admission.,handover,Synthetic test question; contact consent and real staff integration required.
+SYN012,Where can I get the exact fee details?,fees,Synthetic test question; direct user to contact the centre.
